@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272434929116",
+    "project_id": "deugundem",
+    "storage_bucket": "deugundem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272434929116:android:6dd72dc9e1fe0c02a20319",
+        "android_client_info": {
+          "package_name": "com.aydogan.deugundem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272434929116-it1cin3msbdnajtpsrk91al7l7dni2um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgHVnq8zneMB-skoG4-O24Cidl_0GRG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272434929116-it1cin3msbdnajtpsrk91al7l7dni2um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
